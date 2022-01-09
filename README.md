@@ -5,7 +5,7 @@ I'm a technology lover and enthusiast focused on backend development and willing
 - My pronouns are he/him/his
 - As a daily basis, I do work with Java (Spring and RxJava), Go, Javascript - Docker/Kubernetes - AWS
 
-### Looking forward to learning
+### 📚 Looking forward to learning
 
 - Rust
 - Functional Programming
