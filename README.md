@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a technology lover and enthusiast focused on backend development and willing to raise my knowledge by contributing to others and sharing experience
+I'm a technology lover and enthusiast focused on backend development and willing to raise my knowledge by creating new projects, contributing and sharing experience with people
 
 - My pronouns are he/him/his
 - As a daily basis, I do work with Java (Spring and RxJava), Go, Javascript - Docker/Kubernetes - AWS
